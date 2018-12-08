@@ -30,3 +30,8 @@ class ResultController < ApplicationController
         return function
     end
 end
+
+class
+    def say
+        print "Hello"
+end
